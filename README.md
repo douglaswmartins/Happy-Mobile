@@ -66,7 +66,7 @@ expo start
 
 ## :warning: **Observação importante** :warning:
 
-Se caso for rodar em um aparelho físico, precisara alterar a **baseURL** (que fica no arquivo [api.ts]()) para o ip do seu computador, lembre de manter a porta **3333**
+Se caso for rodar em um aparelho físico, precisara alterar a **baseURL** (que fica no arquivo [api.ts](https://github.com/douglaswmartins/Happy-Mobile/blob/master/src/services/api.ts)) para o ip do seu computador, lembre de manter a porta **3333**
 
 ````
 baseURL: 'http://{{IP_DO_COMPUTADOR}}:3333'
