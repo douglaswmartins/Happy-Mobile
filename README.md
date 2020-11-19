@@ -56,7 +56,7 @@
 yarn install
 ````
 
-### Inicializando o FRONTEND
+### Inicializando
 
 ````
 expo start
