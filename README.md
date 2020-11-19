@@ -6,11 +6,11 @@
 
 
 <p align="center">
-  <img height="492" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Mobile/master/.github/map.png?token=AK5ZX5NILG5YYVU76N76TSK7W34IG" alt="Map">
+  <img height="492" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Mobile/master/.github/map.png" alt="Map">
 
-  <img height="492" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Mobile/master/.github/datails-orphanage.png?token=AK5ZX5NRTG55KCUCS2HTKFK7W34IE" alt="Detalhes do orfanato">
+  <img height="492" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Mobile/master/.github/datails-orphanage.png" alt="Detalhes do orfanato">
 
-  <img height="492" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Mobile/master/.github/create-orphanage.png?token=AK5ZX5N27KIXUODUS5JMLQS7W34IA" alt="Criar novo orfanato">
+  <img height="492" src="https://raw.githubusercontent.com/douglaswmartins/Happy-Mobile/master/.github/create-orphanage.png" alt="Criar novo orfanato">
 </p>
 
 
