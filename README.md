@@ -61,3 +61,13 @@ yarn install
 ````
 expo start
 ````
+
+---
+
+## :warning: **Observação importante** :warning:
+
+Se caso for rodar em um aparelho físico, precisara alterar a **baseURL** (que fica no arquivo [api.ts]()) para o ip do seu computador, lembre de manter a porta **3333**
+
+````
+baseURL: 'http://{{IP_DO_COMPUTADOR}}:3333'
+````
